@@ -1,7 +1,7 @@
 # PDF Data Extraction Tool
 ## Version 1.0
 ## Author - Josh Reini (joshua.reini.ctr@usuhs.edu)
-This is an R-based PDF extraction tool, developed by [Josh Reini] (https://github.com/joshreini1) at the [Center for Rehabilitation Sciences Research] (http://crsr.org/) at Uniformed Services Univerisity.
+This is an R-based PDF extraction tool, developed by [Josh Reini](https://github.com/joshreini1) at the [Center for Rehabilitation Sciences Research](http://crsr.org/) at Uniformed Services Univerisity.
 
 It can be used to extract relevant data from PDF versions of patient reported outcome measures or other forms. This script can pull data from many PDF files at once stored in a single folder.
 
